@@ -337,19 +337,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💬 **Questions**: Check existing issues or create a new one
 - 📖 **Documentation**: See this README and inline code comments
 
-## 🗺️ Roadmap
-
-- [ ] GUI application (tkinter/PyQt)
-- [ ] Support for more languages (Spanish, French, etc.)
-- [ ] PDF support
-- [ ] Voice cloning from sample audio
-- [ ] Batch processing interface
-- [ ] Audio playback preview
-- [ ] Chapter bookmark export
-- [ ] M4B audiobook format support
-- [ ] Docker container for easy deployment
-- [ ] Web interface version
-
 ## 📊 Changelog
 
 ### Version 1.0.0 (Current)
