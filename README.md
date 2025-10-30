@@ -330,13 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - HTML/XML parsing
 - All contributors and testers who make this project better
 
-## 📧 Support
-
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/epub-to-audiobook/issues)
-- 💡 **Feature Requests**: [Open an issue](https://github.com/yourusername/epub-to-audiobook/issues)
-- 💬 **Questions**: Check existing issues or create a new one
-- 📖 **Documentation**: See this README and inline code comments
-
 ## 📊 Changelog
 
 ### Version 1.0.0 (Current)
