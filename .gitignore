@@ -179,3 +179,49 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+higgs_audio_env/
+conda_env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Cursor specific
+.cursor/
+
+# Project specific
+output/
+audiobooks/
+*.epub
+*.wav
+*.mp3
+*.ogg
+*.log
+audiobook_converter.log
+
+# Test files
+test_books/
+samples/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Audio processing
+*.m4a
+*.flac
+*.aac
